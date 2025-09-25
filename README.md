@@ -11,63 +11,81 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaytosNikolaevich&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaytosNikolaevich&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KaytosNikolaevich&show_icons=true&theme=radical&hide_border=true&hide=prs" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaytosNikolaevich&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ## 🌱 Atualmente Estou Aprendendo
 
-- **Desenvolvimento Web Avançado** (JavaScript, React)
-- **Frameworks Python** (Django, Flask)
-- **Bancos de Dados** avançados
-- **Computação Quântica** básica
+- **React.js** e **Node.js**
+- **Python Django**
+- **Banco de Dados MySQL**
+- **UI/UX Design**
 
 ## 💡 Projetos em Destaque
 
-### 🎮 Site Dollchalad - Portal de Games
-[![Site Dollchalad](https://github-readme-stats.vercel.app/api/pin/?username=KaytosNikolaevich&repo=Site-Dollchalad&theme=tokyonight)](https://github.com/KaytosNikolaevich/Site-Dollchalad)
+### 🛍️ Dollchalad - E-commerce de Cosméticos e Tatuagens
+[![Dollchalad Repository](https://github-readme-stats.vercel.app/api/pin/?username=KaytosNikolaevich&repo=Site-Dollchalad&theme=radical&show_owner=true)](https://github.com/KaytosNikolaevich/Site-Dollchalad)
 
-Um portal de games desenvolvido com **HTML, CSS e JavaScript**, apresentando interface moderna e responsiva para entusiastas de games.
+**🌱 Projeto em desenvolvimento** - E-commerce especializado em cosméticos e serviços de tatuagem.
 
-**Tecnologias:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
+**🔗 Demo Online:** [site-dollchalad.vercel.app](https://site-dollchalad.vercel.app)
 
-*🌟 Novos projetos em desenvolvimento!*
+**📋 Funcionalidades implementadas:**
+- ✅ Layout responsivo e moderno
+- ✅ Seção de serviços de tatuagem
+- ✅ Estrutura base para catálogo de produtos
+- ✅ Deploy contínuo na Vercel
+
+**🚧 Em desenvolvimento:**
+- 🔄 Sistema de carrinho de compras
+- 🔄 Integração com pagamento
+- 🔄 Backend para gerenciamento de produtos
+
+**🛠️ Tecnologias:** `HTML5` `CSS3` `JavaScript` `Vercel` `Responsive Design`
+
+---
 
 ## 📈 Metas para 2025
 
-- [x] Contribuir para projetos open-source
-- [x] Desenvolver um projeto full-stack completo
-- [x] Aprender React ou Vue.js
-- [x] Participar de hackathons
-- [ ] Expandir conhecimentos em computação quântica
+<div align="center">
 
-**Progresso:** 4/5 metas concluídas 🚀
+| Status | Meta |
+|--------|------|
+| ✅ | Contribuir para projetos open-source |
+| ✅ | Desenvolver um projeto full-stack completo |
+| ✅ | Aprender React ou Vue.js |
+| ✅ | Participar de hackathons |
+| 🔄 | Expandir conhecimentos em computação quântica |
+
+**Progresso: 4/5 metas concluídas** 🚀
+
+</div>
 
 ---
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KaytosNikolaevich&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+## 📅 Atividade no GitHub
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=KaytosNikolaevich&theme=radical&hide_border=true&mode=weekly)
 
-### ⚡ **Curiosidade:** Meu username "KaytosNikolaevich" é uma homenagem à minha fascinação por história e tecnologia!
+### ⚡ Curiosidade
+Meu username **"KaytosNikolaevich"** é uma homenagem à minha fascinação por história e tecnologia!
 
-⭐ **Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios e entrar em contato.**
+⭐ **Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dias-13a532222)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.kevindias@gmail.com)
+[![Website](https://img.shields.io/badge/Dollchalad-Live_Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://site-dollchalad.vercel.app)
 
 </div>
