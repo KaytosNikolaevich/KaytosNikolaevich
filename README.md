@@ -15,6 +15,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊 GitHub Analytics
 
@@ -25,29 +27,37 @@
 
 ## 🌱 Atualmente Estou Aprendendo
 
-- **Desenvolvimento Web** (HTML, CSS, JavaScript)
+- **Desenvolvimento Web Avançado** (JavaScript, React)
 - **Frameworks Python** (Django, Flask)
 - **Bancos de Dados** avançados
 - **Computação Quântica** básica
 
 ## 💡 Projetos em Destaque
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=KaytosNikolaevich&repo=seu-repositorio&theme=tokyonight)](https://github.com/KaytosNikolaevich/seu-repositorio)
+### 🎮 Site Dollchalad - Portal de Games
+[![Site Dollchalad](https://github-readme-stats.vercel.app/api/pin/?username=KaytosNikolaevich&repo=Site-Dollchalad&theme=tokyonight)](https://github.com/KaytosNikolaevich/Site-Dollchalad)
 
-*🚧 Em breve mais projetos incríveis!*
+Um portal de games desenvolvido com **HTML, CSS e JavaScript**, apresentando interface moderna e responsiva para entusiastas de games.
+
+**Tecnologias:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
+
+*🌟 Novos projetos em desenvolvimento!*
 
 ## 📈 Metas para 2025
 
 - [x] Contribuir para projetos open-source
-- [ ] Desenvolver um projeto full-stack completo
+- [x] Desenvolver um projeto full-stack completo
 - [x] Aprender React ou Vue.js
 - [x] Participar de hackathons
 - [ ] Expandir conhecimentos em computação quântica
+
+**Progresso:** 4/5 metas concluídas 🚀
 
 ---
 
 <div align="center">
   
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaytosNikolaevich&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
