@@ -50,15 +50,6 @@
 | Computação quântica | 🔄 |
 
 **Progresso: 4/5 concluídas** 🚀
-
-## 📅 Atividade no GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaytosNikolaevich&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <div align="center">
 
 ### ⚡ Curiosidade
