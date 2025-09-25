@@ -36,12 +36,12 @@
 
 *🚧 Em breve mais projetos incríveis!*
 
-## 📈 Metas para 2024
+## 📈 Metas para 2025
 
-- [ ] Contribuir para projetos open-source
+- [x] Contribuir para projetos open-source
 - [ ] Desenvolver um projeto full-stack completo
-- [ ] Aprender React ou Vue.js
-- [ ] Participar de hackathons
+- [x] Aprender React ou Vue.js
+- [x] Participar de hackathons
 - [ ] Expandir conhecimentos em computação quântica
 
 ---
