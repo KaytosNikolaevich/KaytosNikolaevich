@@ -47,7 +47,7 @@
 | Desenvolver projeto full-stack completo | ✅ |
 | Aprender React ou Vue.js | ✅ |
 | Participar de hackathons | ✅ |
-| Computação quântica | 🔄 |
+| Computação quântica | ✅ |
 
 **Progresso: 4/5 concluídas** 🚀
 <div align="center">
