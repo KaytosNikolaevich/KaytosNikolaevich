@@ -49,7 +49,7 @@
 | Participar de hackathons | ✅ |
 | Computação quântica | ✅ |
 
-**Progresso: 4/5 concluídas** 🚀
+**Progresso: 5/5 concluídas** 🎉
 <div align="center">
 
 ### ⚡ Curiosidade
