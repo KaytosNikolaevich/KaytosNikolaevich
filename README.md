@@ -39,7 +39,7 @@
 
 **Tecnologias:** `HTML5` `CSS3` `JavaScript` `Vercel`
 
-## 📈 Metas 2025
+## 📈 Metas 2026
 
 | Meta | Status |
 |------|--------|
